@@ -145,34 +145,6 @@ SUPABASE_KEY="YOUR_SUPABASE_ANON_KEY"
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Teacher Dashboard
-- Student Dashboard
-- Subject Management
-- Attendance Screen
-- Face Enrollment
-- Voice Enrollment
-
----
-
-## 🚀 Future Improvements
-
-- Real-time webcam attendance
-- Multi-face recognition
-- Attendance reports in PDF
-- Email notifications
-- Mobile application
-- QR code attendance
-- Dashboard analytics
-- Face liveness detection
-
 ---
 
 ## 📚 Skills Demonstrated
@@ -187,17 +159,6 @@ Add screenshots of:
 - Face Recognition
 - Voice Recognition
 - Software Architecture
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Submit a Pull Request
 
 ---
 
